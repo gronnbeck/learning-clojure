@@ -39,6 +39,7 @@
 * [ ] Libraries
 * [ ] Conclusion
   
++: done      -: skipped      /: in progress
 
 #Project Euler
   Over time I've found project Euler (http://project-euler.com) to be a good start point for learning the syntax and semantics of a new programming language. If you've solved the problems in a more familiar language it's fun to apply other languages to the same task as well. So far I've tried to solve these problems with Ruby, Python, and now with Clojure.
@@ -55,7 +56,7 @@
   
 #Noir
   Noir (http://webnoir.org/) is a simple web framework for Clojure. Using Noir to learn some more practical Clojure when project Euler problems becomes theoretical.
-  I've started a small project to try Noir, it's called "test-noir". I find the framework interesting, and I'm planning to build a simplistic Content Management System aka blog. 
+  I've started a small project to try Noir, it's called "noir-first". I find the framework interesting, and I'm planning to build a simplistic Content Management System aka blog. 
   
   
   
@@ -66,6 +67,3 @@
 
 
   
-+: done
--: skipped 
-/: in progress
