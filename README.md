@@ -7,37 +7,37 @@
   His tutorial can be found here http://java.ociweb.com/mark/clojure/article.html
   
 ##Progress
-  [+] Introduction
-  [+] Functional Programming
-  [+] Clojure Overview
-  [+] Getting Started
-  [+] Clojure Syntax
-  [+] REPL
-  [+] Bindings
-  [+] Collections
-  [-] StructMaps
-  [+] Defining Functions
-  [+] Java Interoperability
-  [ ] Conditional Processing
-  [+] Iteration
-  [+] Recursion
-  [ ] Predicates
-  [ ] Sequences
-  [ ] Input/Output
-  [ ] Destructuring
-  [ ] Namespaces
-  [ ] Metadata
-  [ ] Macros
-  [ ] Concurrency
-  [ ] Reference Types
-  [ ] Compiling
-  [ ] Automated Testing
-  [ ] Editors and IDEs
-  [ ] Desktop Applications
-  [ ] Web Applications
-  [ ] Databases
-  [ ] Libraries
-  [ ] Conclusion
+* [+] Introduction
+* [+] Functional Programming
+* [+] Clojure Overview
+* [+] Getting Started
+* [+] Clojure Syntax
+* [+] REPL
+* [+] Bindings
+* [+] Collections
+* [-] StructMaps
+* [+] Defining Functions
+* [+] Java Interoperability
+* [ ] Conditional Processing
+* [+] Iteration
+* [+] Recursion
+* [ ] Predicates
+* [ ] Sequences
+* [ ] Input/Output
+* [ ] Destructuring
+* [ ] Namespaces
+* [ ] Metadata
+* [ ] Macros
+* [ ] Concurrency
+* [ ] Reference Types
+* [ ] Compiling
+* [ ] Automated Testing
+* [ ] Editors and IDEs
+* [ ] Desktop Applications
+* [ ] Web Applications
+* [ ] Databases
+* [ ] Libraries
+* [ ] Conclusion
   
 
 #Project Euler
