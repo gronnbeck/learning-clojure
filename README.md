@@ -1,6 +1,13 @@
-#Overview
+#Introduction
   This project is my steps in learning the basics of Clojure.
   I've never worked with Lisp, Haskell or any other functional languages, and chose to try out Clojure because of it's hype. I also found it fascinating that Clojure can be compiled to run on JVM, .NET's virtual machine, and even be decompiled to JS. 
+  
+###Overview
+ * Introduction
+ * Getting Started
+ * Project Euler
+ * Noir
+ * Concurrency
 
 #Getting Started
   This project is a result of following R. Mark Volkmanns tutorial on Clojure.
@@ -56,7 +63,7 @@
   
 #Noir
   Noir (http://webnoir.org/) is a simple web framework for Clojure. Using Noir to learn some more practical Clojure when project Euler problems becomes theoretical.
-  I've started a small project to try Noir, it's called "noir-first". I find the framework interesting, and I'm planning to build a simplistic Content Management System aka blog. 
+  I've started a small project to try Noir, it's called "noir-first". So far I'm finding the framework interesting. Still wondering how you can make models in a functional language.
   
   
   
