@@ -6,7 +6,7 @@
   This project is a result of following R. Mark Volkmanns tutorial on Clojure.
   His tutorial can be found here http://java.ociweb.com/mark/clojure/article.html
   
-##Progress
+Progress
 * [+] Introduction
 * [+] Functional Programming
 * [+] Clojure Overview
@@ -45,7 +45,7 @@
   Over time I've found project Euler (http://project-euler.com) to be a good start point for learning the syntax and semantics of a new programming language. If you've solved the problems in a more familiar language it's fun to apply other languages to the same task as well. So far I've tried to solve these problems with Ruby, Python, and now with Clojure.
   Project Euler is also a good place to learn how to do optimization of your code. However, I probably won't be doing too much optimizations in Clojure at this point.
   
-##Problems solved
+Problems solved
   * Problem 1
   * Problem 2
   * Problem 3 (slow)
