@@ -46,7 +46,7 @@
 * [ ] Libraries
 * [ ] Conclusion
   
-+: done      -: skipped      /: in progress
+[+] done      [-] skipped      [/] in progress
 
 #Project Euler
   Over time I've found project Euler (http://project-euler.com) to be a good start point for learning the syntax and semantics of a new programming language. If you've solved the problems in a more familiar language it's fun to apply other languages to the same task as well. So far I've tried to solve these problems with Ruby, Python, and now with Clojure.
