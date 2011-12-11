@@ -56,8 +56,7 @@
   * Problem 1
   * Problem 2
   * Problem 3 (slow)
-  * Problem 12 (runs out of heap space..)
-      – Coming back later to optimization. Mean while, I'm going to try Noir
+  * Problem 12 (solution by Roboloco – it's pretty neat)
   
   
   
@@ -68,7 +67,8 @@
   
 ###Progress
   * Got the simplest views working
-  * Have some problems with the form validations..  
+  * Have some problems with the form validations.. Coming back to that later
+  * Don't want to use time at this moment to figure out how to use a SQL DB with Clojure. NOIR BREAK!
   
   
   
