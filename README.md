@@ -25,13 +25,13 @@
 * [-] StructMaps
 * [+] Defining Functions
 * [+] Java Interoperability
-* [ ] Conditional Processing
+* [+] Conditional Processing
 * [+] Iteration
 * [+] Recursion
-* [ ] Predicates
-* [ ] Sequences
-* [ ] Input/Output
-* [ ] Destructuring
+* [+] Predicates
+* [+] Sequences
+* [+] Input/Output
+* [+] Destructuring
 * [ ] Namespaces
 * [ ] Metadata
 * [ ] Macros
@@ -63,7 +63,13 @@
   
 #Noir
   Noir (http://webnoir.org/) is a simple web framework for Clojure. Using Noir to learn some more practical Clojure when project Euler problems becomes theoretical.
-  I've started a small project to try Noir, it's called "noir-first". So far I'm finding the framework interesting. Still wondering how you can make models in a functional language.
+  I've started a small project to try Noir, it's called "noir-first". So far I'm finding the framework interesting. 
+  Gonna browse github for some ideas on how to program use Noir, and then create a simple Wall for people to post and comment stuff. 
+  
+###Progress
+  * Got the simplest views working
+  * Have some problems with the form validations..  
+  
   
   
   

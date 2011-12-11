@@ -29,7 +29,7 @@
 		[:password "Your password must be at least 8 characters long"])
 	(not (vali/errors? :username :password)))
 
-(defpage [:post "/login"] {:keys [username password]}
+(defpage [:post "/login"] {:as login}
 	(if (valid? login)
 		(common/layout
 			[:div#content

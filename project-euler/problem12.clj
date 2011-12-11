@@ -47,18 +47,12 @@
 ; (println (possible-divs 2 4))
 
 (defn number-of-divisors [number]
-	(loop [primes (generate-primes (* number number)) divisors #{}]
+	(loop [primes (generate-primes  number) divisors #{}]
 		(if (= 0 (count primes))
 			(count (conj divisors number))
 			(if (= 0 (rem number (first primes)))
 				(recur (next primes) (possible-divs (first primes) number divisors))
 				(recur (next primes) divisors)))))
-	
-; (time (println "1: " (number-of-divisors 1)))
-; (time (println "3: " (number-of-divisors 3)))
-; (time (println "6: " (number-of-divisors 6)))
-; (time (println "10: " (number-of-divisors 10)))
-; (time (println "15: " (number-of-divisors 15)))
 	
 	
 (defn problem12 [divisors]
@@ -69,6 +63,10 @@
 			(println "Number: " (triangle-number n) "has " div "divisors")
 			(recur (inc n))))))
 		
+; (time (problem12 1))
+; (time (problem12 2))
+; (time (problem12 4))
+; (time (problem12 5))
 (time (problem12 500))
 
 
