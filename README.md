@@ -63,9 +63,8 @@ Project Euler is also a good place to learn how to do optimization of your code.
 
 Just discovered 4Clojure (http://www.4clojure.com/), which has a lot (134) of problems/assignments for Clojure. Probably going to from Project Euler tasks for a while, and too these more language-specific problems instead. 
 
-###Problems solved
- * All Elementary 
- * Easy up to 30
+###Progress
+So far I'm at level 35. I've posted some of my solutions in the 4clojure folder. It's exciting to work with hands-on problems, and it reminds me how hard it is too learn a new programming paradigm. 
   
   
 #Noir
