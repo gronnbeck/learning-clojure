@@ -74,7 +74,7 @@ I've posted some of my solutions in the 4clojure folder. It's exciting to work w
 
 
 ###Progress
-So far I'm at level 47, and things are getting harder and more interesting. 
+So far I'm at level 47, and things are getting harder and more interesting. Starting to dig into medium level problems, and my brain is starting too grasp functional programming again. 
   
   
 #Noir
