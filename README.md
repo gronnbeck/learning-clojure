@@ -3,12 +3,19 @@ This project is my steps in learning the basics of Clojure.
 
 I've never worked with Lisp, Haskell or any other functional languages, and chose to try out Clojure because of it's hype. I also found it fascinating that Clojure can be compiled to run on JVM, .NET's virtual machine, and even be decompiled to JS. 
   
-###Overview
+###Index
  * Introduction
+ * Overall Progress
  * Getting Started
  * Project Euler
  * Noir
  * Concurrency
+
+#Overall Progress
+###Tuesday, 20. December
+I'm finally starting to get "into" the language. I've spent many hours spread across about 12 days. It's a long way before I've mastered the language fully, and I'll continue working with tasks and read blog post too improve my understanding of Clojure. However, I don't think I'll fully own the language before I've had practical experience with it. I hope too to build a tool using Clojure someday, and another tool after that which has needs of it's concurrency capabilities. 
+
+For now I'll work with 4clojure problems, I'm going to try to solve five to six problems a week.
 
 #Getting Started
 This project is a result of following R. Mark Volkmanns tutorial on Clojure. His tutorial can be found here http://java.ociweb.com/mark/clojure/article.html
@@ -63,8 +70,11 @@ Project Euler is also a good place to learn how to do optimization of your code.
 
 Just discovered 4Clojure (http://www.4clojure.com/), which has a lot (134) of problems/assignments for Clojure. Probably going to from Project Euler tasks for a while, and too these more language-specific problems instead. 
 
+I've posted some of my solutions in the 4clojure folder. It's exciting to work with hands-on problems, and it reminds me how hard it is too learn a new programming paradigm. 
+
+
 ###Progress
-So far I'm at level 35. I've posted some of my solutions in the 4clojure folder. It's exciting to work with hands-on problems, and it reminds me how hard it is too learn a new programming paradigm. 
+So far I'm at level 47, and things are getting harder and more interesting. 
   
   
 #Noir
