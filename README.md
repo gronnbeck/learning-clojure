@@ -44,14 +44,14 @@ This project is a result of following R. Mark Volkmanns tutorial on Clojure. His
 * [+] Macros
 * [+] Concurrency
 * [+] Reference Types
-* [ ] Compiling
-* [ ] Automated Testing
-* [ ] Editors and IDEs
-* [ ] Desktop Applications
-* [ ] Web Applications
-* [ ] Databases
-* [ ] Libraries
-* [ ] Conclusion
+* [+] Compiling
+* [+] Automated Testing
+* [+] Editors and IDEs
+* [+] Desktop Applications
+* [+] Web Applications
+* [+] Databases
+* [+] Libraries
+* [+] Conclusion
   
 [+] done      [-] skipped      [/] in progress
 
@@ -74,7 +74,7 @@ I've posted some of my solutions in the 4clojure folder. It's exciting to work w
 
 
 ###Progress
-So far I'm at level 47, and things are getting harder and more interesting. Starting to dig into medium level problems, and my brain is starting too grasp functional programming again. 
+So far I'm at level 50, and things are getting harder and more interesting. Starting to dig into medium level problems, and my brain is starting too grasp functional programming again. 
   
   
 #Noir
